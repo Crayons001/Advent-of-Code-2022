@@ -1,3 +1,5 @@
+//THIS IS THE SOLUTION TO PART ONE OF THE PUZZLE
+
 #include<stdio.h>
 
 FILE *fpointer;
