@@ -1,0 +1,5 @@
+This problem was solved in C programming language
+
+The file named 'calories_elves.txt' contains the puzzle input. In other words, this is the data used by the program to answer the question that is asked
+
+There are two part to the question:
