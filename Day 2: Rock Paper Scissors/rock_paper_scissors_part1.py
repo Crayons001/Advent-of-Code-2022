@@ -1,3 +1,5 @@
+# THIS IS THE SOLUTION FOR PART ONE
+
 myfile = open("F:\ManuC\strategy_guide.txt", "r");
 points = 0
 total = 0
