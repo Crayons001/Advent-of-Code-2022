@@ -1,3 +1,5 @@
+# This is the solution for part one
+
 # Function that calculates priority using ASCII values of the letters
 def priority_calc(item):
     value = ord(item)       # Storing the ASCII value of item in variable 'value'
@@ -14,7 +16,7 @@ def compare(rucksack):
     range_size = int(len(rucksack)/2)
     for i in range(0, range_size):      # Goes through the first half of the line
         for j in range(range_size, range_size*2):       # Goes through the second half of the line
-            if(rucksack[i]==rucksack[j]):
+            if(rucksack[i]==rucksack[j]):       # Compares each item on the first half to each item on the second half of the line
                 common_item = rucksack[i]
 
     return common_item
